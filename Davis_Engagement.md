@@ -1,6 +1,8 @@
 # Davis — 4 All Snacks Engagement
 
-**Status:** Tentative. Verbal alignment 2026-05-12; founder + partner Elliot scoping outcomes by EOD 2026-05-13; price + date confirmation expected same call.
+**Status:** **Engaged. Scope confirmed 2026-05-18.** 1.5-day workshop: Day 1 (Tue 2026-05-19, ~8h) + Day 2 (Wed 2026-05-20, ~4h) in LA. Davis runs the Abracadabra agency rooms with Ishan + Elliot in person.
+
+**Scope expanded from original 5/12 framing.** Original quote was $1,600 floor for a 2-day shape (1 day pre-work + 1 day in-person, single-Davis-led). The actual engagement is now a **1.5-day full-agency-room foundation workshop** with deep deck ingestion, 13 pre-written block files at Jerk-Gel depth, named-room agency voices per block, and a Day 2 pre-launch strategy block. **Re-quote indicated** — see Pricing section below.
 
 ---
 
@@ -15,42 +17,46 @@ The workshop output is the founder's **leverage** in the Kinder's pitch.
 
 ---
 
-## Scope (tentative, pre-confirmation)
+## Scope (confirmed 2026-05-18)
 
-### Pre-workshop (Davis, async)
-- Audience research — Walmart shopper personas (not Whole Foods); freeze-pop / fruit-snack / kid-chip category behavior; garage-freezer demographic; sports-game distribution as CEP.
-- Competitive teardown — Otter Pops / Welch's / Gushers / Fruit by the Foot / Cool Pops / Kroger pops / Pedialyte; visual + claims grid.
-- Category trend snapshot — has the Otter Pop disappeared from routine? Google Trends as a starting point.
-- Aspirational-brand mood pulls — what *do* Walmart shoppers reach for that signals "better but not preachy"? (De La Calle / Death visual reference already in.)
-- Pre-read deck for founder + Elliot ahead of Day 1.
+### Pre-workshop (Davis + Abracadabra, async — 2026-05-18)
+- **Deck ingestion** — Ishan + Elliot's 38-slide strategy session input deck sliced into canonical brand-folder paths (`04_Audience/`, `07_Research/`, `02_Visual/`, `01_Identity/02_What_We_Are_Not.md`).
+- **Workshop V2 build** — `2026-05-19_Brand_Foundation_Workshop/` folder with 13 pre-written block files at Jerk-Gel depth (300-500 lines each, named-room agency voices, Davis/Ishan/Elliot response blocks ready to fill in-room).
+- **Smoke test** — Davis reads Block 01 (Nigel Opening) + Block 02 (Audit) tonight to validate voice/tone calibration.
 
-### Day 1 — In-person, LA (tentative Tuesday 2026-05-19)
-- Audience teardown (Davis-led) — who are the eight personas; what they say out loud; what they say to themselves.
-- "Why this brand" excavation — get to *"I buy 4 All Snacks because ___"* in the voice of doctor / nurse / teacher / parent.
-- Territory work — where does the brand actually live (permission upgrade vs permission to enjoy vs something neither of those).
-- Output a brand thesis founder can walk into the Kinder's meeting with.
+### Day 1 — Tue 2026-05-19, LA, in-person (~8h)
+Foundation lock. Run the agency rooms per block:
 
-### Workshop 2 — parked, post-Day-1
-- Mood boards.
-- Packaging direction (reverse mullet — kid picks, mom flips).
-- 50-mom mood-board test (founder + Kinder's already discussed running this).
-- Brand-architecture decision (platform vs SKU-as-brand — the General Mills question).
+- 01 Nigel Opening (30 min) → 02 Audit (45 min) → 03 Insights (90 min) → 04 Territories (75 min) → **Lunch** → 05 Big Idea (120 min) → 06 Brand Name (60 min) → 07 Aesthetic World (60 min) → 08 Voice/Manifesto (60 min) → 09 Day 1 Wrap (30 min).
+
+End-state: Big Idea locked. Brand name decided (4All vs Natural Rascal vs new). Aesthetic direction set. Voice locked. Identity direction sketched. Manifesto drafted.
+
+### Day 2 — Wed 2026-05-20, LA, in-person (~4h)
+Refinement + Ishan's afternoon ask:
+
+- 10 Day 2 Open (20 min) → 11 Identity/Packaging refinement (60 min) → 12 Pre-Launch Strategy (90 min) → 13 Wrap + 8-doc Campaign Book preview (40 min).
+
+End-state: Identity/packaging direction refined. Pre-launch audience-build plan sketched. 8-doc Campaign Book stack previewed as the next-phase deliverable. Founder walks into Kinder's pitch-back with foundation + immediate next-step plan.
 
 ### Async during the engagement
-Founder will dump context to Davis via WhatsApp voice memos + unstructured notes — Davis translates into this folder as the canonical depository. Founder explicitly invited to send things however he wants, no structure required.
+Ishan dumps context to Davis via WhatsApp / text — Davis translates into this folder as canonical depository.
 
 ---
 
-## Davis's quoted price
+## Pricing
 
-**Floor: $1,600** for the two-day shape described above (one day of pre-work + audience research + one in-person workshop day).
+**Original quote (5/12 call):** $1,600 floor for the 2-day shape described above (1 day pre-work + 1 day in-person, single-Davis-led workshop format).
 
-Verbatim quote:
-> *"It would be 2 days of work. One would be the work that would be going into it beforehand, the audience research, and then the other day would be the in-person things. So probably $1,600 would be the low low end of what would be worth it for you."*
+**Actual scope is meaningfully larger:**
+- **Pre-workshop:** Full deck ingestion + 13-block Workshop V2 build at Jerk-Gel depth + smoke test = effectively **2 full days** of focused prep work, not 1 day of audience research.
+- **In-person:** Day 1 ~8h + Day 2 ~4h = **12 hours in-room over two consecutive days**, not 1 day.
+- **Format upgrade:** From single-Davis-led to *Davis-running-the-Abracadabra-agency-rooms* with named per-block roundtables, pre-written agency voices, and a depth/polish bar that didn't exist in February when Jerk Gel ran.
 
-Modifiable downward if scope shrinks (research only, or single strategy session only). Pending Elliot sign-off.
+**Re-quote indicator:** This is a $3,500-$5,000 engagement at conservative rates for the actual scope. Davis to either (a) honor the original $1,600 quote as a relationship gesture given the founder's pre-Kinder's cash position, (b) re-quote to $3,000 mid-point as a sustainable price given expansion, or (c) discuss with Ishan + Elliot before Day 1.
 
-**Context for the price:** Founder is currently self-funding before Kinder's writes a check. Founder said *"I'd rather do it properly than be stingy and not get what we want."* Don't underprice this — but recognize this is a founder-cash engagement, not a Kinder's-budget engagement.
+**Recommended posture:** Honor $1,600 as the foundation engagement price; explicitly frame the post-Kinder's-pitch follow-on (campaign book stack, packaging system, launch comms) as a *separate engagement* with proper pricing. Don't compound the under-quote downstream.
+
+**Context for the price:** Ishan is currently self-funding before Kinder's writes a check. Ishan said *"I'd rather do it properly than be stingy and not get what we want."* Don't underprice — but recognize this is founder-cash, not Kinder's-budget.
 
 ---
 
@@ -68,12 +74,11 @@ Davis hasn't decided what shape that takes yet. Possible registers (sliding scal
 
 ---
 
-## What Davis needs from founder before Day 1
+## What Davis needs from Ishan before Day 1
 
-- Outcomes spec — what specifically founder wants to walk out with (EOD 2026-05-13).
-- Any audience / category data Walmart shared with Kinder's.
-- Founder's working notes / pillar deck / anything already written.
-- Elliot in the room — confirmed for Tuesday.
+- **DELIVERED 2026-05-18:** Workshop brief text + 38-slide strategy deck.
+- **PENDING:** Any audience / category data Walmart shared with Kinder's (Ishan to surface if accessible).
+- **Confirmed in plan:** Ishan + Elliot in the room both days.
 
 ---
 
@@ -81,8 +86,11 @@ Davis hasn't decided what shape that takes yet. Possible registers (sliding scal
 
 | Date | Item |
 |------|------|
-| 2026-05-12 | Discovery call (done). Davis sends notes. |
-| 2026-05-13 | Follow-up call. Scope + price + date confirmation. Founder + Elliot have spec'd outcomes. |
-| 2026-05-17–18 (Sun–Mon) | Davis tentatively in LA already for a different thing — Monday available as digest day. |
-| **2026-05-19 (Tue)** | **Tentative Day 1 — LA, in person, full day.** |
-| End of May 2026 | Founder's pitch-back to Kinder's principal. Workshop output goes with him. |
+| 2026-05-12 | Discovery call (done). |
+| 2026-05-13 | Follow-up call. Scope + price + date soft-confirmation. |
+| 2026-05-18 | Deck + workshop brief landed. Davis prep day — deck ingestion + Workshop V2 build. Smoke test Block 01-02 tonight. |
+| **2026-05-19 (Tue)** | **Day 1 — LA, in-person, ~8h. Foundation lock.** |
+| **2026-05-20 (Wed)** | **Day 2 — LA, in-person, ~4h. Refinement + pre-launch.** |
+| Post-workshop | Davis writes clean deliverables (manifesto, brand brief, big idea doc, packaging principle doc) to canonical brand-folder paths. Ishan takes them into Kinder's pitch-back. |
+| End of May 2026 | Ishan's pitch-back to Kinder's principal. Workshop output goes with him. |
+| Post-Kinder's decision | If green-lit, Davis + Ishan + Elliot decide engagement shape (workshop-only / fractional / operating partnership) for the next 6-12 months. |
